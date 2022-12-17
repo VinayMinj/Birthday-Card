@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="cs">
+<html lang="hu"
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Birthday Card</title>
+    <!-- Google Font-->
+    <link
+      href="https://fonts.googleapis.com/css?family=Tangerine"
+      rel="stylesheet"
+    />
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="card">
+      <div class="outside">
+        <div class="front">
+          <p><i>Boldog Születesnapot</i></p>
+            <div class="cake">
+            <img src="unicorn.jpg" height="150px" width="150px" class="center"/>
+            <p><i>Všechno Nejlepší K Narozeninám</i></p>
+          </div>
+        </div>
+        <div class="back"></div>
+      </div>
+      <div class="inside">
+        <p align="left">Kedves Lucka<br/>Te egy jó barát és még jobb ember. Mindig mosolyogni és legyen minden áljon valóra az álmod. Boldog születesnapot.</p>
+        <img src="cat.jpg" height="150px" width="150px" class="center"/>
+        <p align="right">Vinay</p>
+      </div>
+    </div>
+  </body>
+</html>
